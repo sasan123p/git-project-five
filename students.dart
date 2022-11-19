@@ -1,1 +1,4 @@
-class Student {}
+class Student {
+  String? name;
+  String? grade;
+}

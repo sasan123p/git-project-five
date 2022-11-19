@@ -1,1 +1,4 @@
-class Teacher {}
+class Teacher {
+  String? name;
+  int? workExperience;
+}
